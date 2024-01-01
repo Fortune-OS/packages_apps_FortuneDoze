@@ -1,4 +1,4 @@
-// Copyright (C) 2020 Paranoid Android
+// Copyright (C) 2024 FortuneOD
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -13,7 +13,7 @@
 // limitations under the License.
 
 android_app {
-    name: "ParanoidDoze",
+    name: "FortuneDoze",
     certificate: "platform",
     srcs: ["src/**/*.java"],
     platform_apis: true,
@@ -23,6 +23,6 @@ android_app {
         "androidx.core_core",
         "androidx.preference_preference",
         "SettingsLib",
-        "co.aospa.resources",
+        "org.fortune.resources",
     ],
 }

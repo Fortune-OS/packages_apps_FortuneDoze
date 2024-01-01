@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package co.aospa.doze;
+package org.fortune.doze;
 
 import android.content.Context;
 import android.content.Intent;

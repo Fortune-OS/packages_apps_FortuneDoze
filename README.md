@@ -1,9 +1,9 @@
-# Setting up Paranoid Doze
+# Setting up Fortune Doze
 To build Paranoid Doze you have to build the package in your device tree.
 ```
     # Doze
     PRODUCT_PACKAGES += \
-        ParanoidDoze
+        FortuneDoze
 ```
 In order to have the proper options showing up you have to define the device related sensors in your build properties
 
